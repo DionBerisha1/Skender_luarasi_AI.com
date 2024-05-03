@@ -1,0 +1,17 @@
+   <div class="titulli">
+        
+    </div>
+    <div class="class chatbot">
+        <header>
+            <h2>Chatbot</h2>
+        </header>
+        <ul class="chatbox"></ul>
+        <li class="chat incoming">
+                <span class="material-symbols-outlined"></span>
+                <p>Përshëndetje <br>Si mund të ju ndihmoj?</p>
+            </li>
+            <li class="Chat outgoing">
+                <p>Përshëndetje mund të më tregoni për shkollën tuaj</p>
+            </li>
+            </ul>
+            <div class="chat-input"></div>
